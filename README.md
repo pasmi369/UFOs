@@ -1,4 +1,8 @@
 # UFOs
+<<<<<<< HEAD
+=======
+
+>>>>>>> f70a0634cc3f0b4b6c3f66624368e0e5c967b80f
 - An unidentified flying object (UFO) is an aerial phenomenon that cannot immediately be identified or explained. Most UFOs are identified on investigation as conventional objects or phenomena. The term is widely used for claimed observations of extraterrestrial spacecraft. 
 
 ## Overview of Project: 
@@ -43,4 +47,12 @@ Below are few screenshots of filters which Dana can use from the new webpage usi
         - Implement live data functionality rather than inputing the data manually.
         - To have ability to filter using duration of the sighting and buzz words from comments.
         - For further development and progress of the project we can add more data from different parts of the world.
+<<<<<<< HEAD
         
+=======
+        
+
+
+
+
+>>>>>>> f70a0634cc3f0b4b6c3f66624368e0e5c967b80f
