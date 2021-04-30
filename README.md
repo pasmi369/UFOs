@@ -7,6 +7,7 @@
 
 ## Results: 
 Below are few screenshots of filters which Dana can use from the new webpage using the search criteria. 
+
 - ### Filters Image
 ![filters_image](./Resources/filters_image.png)
 
